@@ -1,5 +1,8 @@
-# Dry climate extremes are worsening air quality
-The pollution and meteorological measurements are averaged by hour (data are divided by year). The station nomenclature selected for the analysis is:
+# The Integral Environmental Monitoring System database from Monterrey
+Each file contains pollution and meteorological measurements for a given year, averaged hourly.
+
+The station nomenclature selected for the analysis is:
+
 ```bash
 {
     "NORESTE": "NE",
